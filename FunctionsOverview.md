@@ -8,7 +8,7 @@
 
 ## Contents
 1. [Introduction](#Introduction)
-2. [Function Overview and Syntax](#1.Function Overview And Syntax)
+2. [Function Overview and Syntax]([#1.Function Overview And Syntax](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#1-function-overview-and-syntax))
 3. [Parameters](https://github.com/vivekgit16/intro_to_functions/blob/main/my_file.md#2-parameters)
 4. [Reference/Value Parameters](#3.Reference/Value Parameters )
 5. [Return Values](# 4. Return Values)
