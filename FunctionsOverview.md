@@ -19,7 +19,7 @@
 10. [Higher-Order Functions](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#9-higher-order-functions)
 11. [Example- A Real-World Problem](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#10-a-real-world-problem)
 12. [Other Relevant Details](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#11-other-relevant-details)
-13. [Function Best Practices](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#function-best-practices)
+13. [Function Best Practices](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#12-function-best-practices)
 14. [Conclusion](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#conclusion)
 
 ## Introduction
