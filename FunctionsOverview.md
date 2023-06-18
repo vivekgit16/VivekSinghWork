@@ -7,20 +7,20 @@
   - Gain insights into best practices for writing functions that are clean, maintainable, and efficient.
 
 ## Contents
-1. [Introduction](#Introduction)
+1. [Introduction](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#introduction)
 2. [Function Overview and Syntax](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#1-function-overview-and-syntax)
-3. [Parameters](https://github.com/vivekgit16/intro_to_functions/blob/main/my_file.md#2-parameters)
-4. [Reference/Value Parameters](#3.Reference/Value Parameters )
-5. [Return Values](# 4. Return Values)
-6. [Scope and Variable Visibility](# 5. Scope and Variable Visibility)
-7. [Function Overloading](# 6. Function Overloading with examples in different languages)
-8. [Anonymous Functions and Lambdas](# 7. Anonymous Functions and Lambdas)
-9. [Recursion](# 8. Recursion)
-10. [Higher-Order Functions](# 9. Higher-Order Functions)
-11. [Example- A Real-World Problem](# 10. A Real-World Problem:)
-12. [Other Relevant Details](#11. Other Relevant Details)
-13. [Function Best Practices](#Function Best Practices )
-14. [Conclusion](#Conclusion)
+3. [Parameters](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#2-parameters)
+4. [Reference/Value Parameters](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#3-referencevalue-parameters)
+5. [Return Values](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#4-return-values)
+6. [Scope and Variable Visibility](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#5-scope-and-variable-visibility)
+7. [Function Overloading](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#6-function-overloading-with-examples-in-different-languages)
+8. [Anonymous Functions and Lambdas](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#7-anonymous-functions-and-lambdas)
+9. [Recursion](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#8-recursion)
+10. [Higher-Order Functions](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#9-higher-order-functions)
+11. [Example- A Real-World Problem](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#10-a-real-world-problem)
+12. [Other Relevant Details](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#11-other-relevant-details)
+13. [Function Best Practices](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#function-best-practices)
+14. [Conclusion](https://github.com/vivekgit16/VivekSinghWork/blob/main/FunctionsOverview.md#conclusion)
 
 ## Introduction
 Functions are an essential component of programming languages, enabling developers to organize code, improve reusability, and simplify complex tasks. In this blog, we will explore the syntax, parameters, reference/value parameters, return values, and other important aspects of functions in various programming languages. Specifically, we will compare the function features of JavaScript, TypeScript, Dart, PHP, Java, Kotlin, C, C++, Objective-C, Swift, and Golang. By understanding the similarities and differences among these languages, you'll be well-equipped to work with functions across different platforms.
@@ -361,7 +361,7 @@ By examining the above examples, you can observe how the syntax and structure of
 - **Default Parameter Values**: Languages like JavaScript, TypeScript, Dart, Kotlin, and Swift allow specifying default values for function parameters. If an argument is not provided for a parameter with a default value, the default value is used.
 - **Variadic Functions**: Certain languages, such as PHP and Golang, support variadic functions. These functions can accept a variable number of arguments, providing flexibility in function calls.
 
-## Function Best Practices 
+## 12. Function Best Practices 
 - Keep functions short and focused.
 - Use meaningful names for functions and parameters.
 - Avoid side effects and ensure pure functions when possible.
